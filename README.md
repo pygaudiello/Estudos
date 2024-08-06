@@ -1,4 +1,3 @@
-# Campo Minado [Em andamento]
+# Estudos
 
-Jogo Campo Minado, feito em Flutter.
-Inspirado em aulas da Cod3r.
+Melhorando continuamente para logo ser uma dev pleno
